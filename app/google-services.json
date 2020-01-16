@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "916841882438",
+    "firebase_url": "https://login-f7180.firebaseio.com",
+    "project_id": "login-f7180",
+    "storage_bucket": "login-f7180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916841882438:android:8af23201c3d0066c",
+        "android_client_info": {
+          "package_name": "com.example.licio.restaurants.ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916841882438-0re1qcdiar4envv33hu106q8prt0s4qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNyuy2WHPUaHwirspod3h-37ycE7dAc3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916841882438-0re1qcdiar4envv33hu106q8prt0s4qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916841882438:android:b57c4afb6332ff81fdfb47",
+        "android_client_info": {
+          "package_name": "com.lentimosystems.skuli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916841882438-3rs67m04214ipecnf8v4ldjr2f9ph0no.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lentimosystems.skuli",
+            "certificate_hash": "72c72666e0c93d116b8bd4715d426d1c45f9699e"
+          }
+        },
+        {
+          "client_id": "916841882438-0re1qcdiar4envv33hu106q8prt0s4qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNyuy2WHPUaHwirspod3h-37ycE7dAc3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916841882438-0re1qcdiar4envv33hu106q8prt0s4qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
